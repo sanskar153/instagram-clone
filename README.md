@@ -19,11 +19,11 @@ npm install nodemailer-sendgrid-transport<br>
 
 # LINK TO THE WEBSITE
 
-[CLICK HERE](https://instaclone-by-sanskar.herokuapp.com/)
-
 one thing to keep in mind that whichever action you do please wait for some time to load the following as per your internet connection speed.
 
-# Screenshots
+[CLICK HERE](https://instaclone-by-sanskar.herokuapp.com/)
+
+ # Screenshots
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/79687388/122673413-f7d02600-d1ed-11eb-87dc-b07d560e9b65.png)
 
