@@ -3,10 +3,11 @@ Using MongoDB, ExpressJS, ReactJS, and NodeJS
 
 It's a clone React app of instagram using MERN STACK.<br>
 In this app I use cloudinary for storing all the imgages upload by the users and deployed this project in heroku.<br>
-MongoDB is used as an backened to store all the information of users and their post, I also used hashing to hash the password in binary form <br>
+MongoDB is used as an backened to store all the information of users and their post, I also took the help of hashing method to hash the password in binary form.<br>
+You can upload dp, create post, like and comment the post also follow and unfollow accounts, you can search accounts by help of a special search section.<br>
 
 
-# Want to install
+# Want to install...
 
 1. create a dev.js file in congifg section, in this file add your mongodb and cloudinary api keys.<br>
 2. install the following packages as given below :<br>
