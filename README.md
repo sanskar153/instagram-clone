@@ -30,4 +30,5 @@ one thing to keep in mind that whichever action you do please wait for some time
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/79687388/122673418-fa328000-d1ed-11eb-9c50-84638e489fb8.png)
 
-![Screenshot (78)](https://user-images.githubusercontent.com/79687388/122673420-fc94da00-d1ed-11eb-9234-feacdcf942a3.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/79687388/122712931-7aa2c080-d282-11eb-9ede-733299bf9e77.png)
+
